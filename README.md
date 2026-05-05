@@ -63,7 +63,7 @@ The dataset simulates Blinkit-like quick commerce transactions and includes:
 - 🕒 Evening and night time slots show higher order volume
   
 ## 🖼️Screenshots
-(https://github.com/RohitJain173/Blinkit_Dashboard/blob/main/BlinkIt.png)
+![Dashboard Screenshot](https://github.com/RohitJain173/Blinkit_Dashboard/blob/main/BlinkIt.png)
 
 
 ## 📌Conclusion
